@@ -1,2 +1,2 @@
 # Netflix-Movie-Data-Analysis-
-Analysis of Netflix movie data using python libraries
+Analyzed and preprocessed Netflix data using various Python libraries, employing Pandas methods to visualize and explore the dataset effectively.
